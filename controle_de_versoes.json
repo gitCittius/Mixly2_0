@@ -1,0 +1,54 @@
+[
+    {
+        "name": "QDPK210 AIstart",
+        "version": "1.0.0",
+        "desc": "MicroPython QDPK210 AIstart",
+        "url": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/micropython_k210_aistart.zip"
+    }, {
+        "name": "TCTM KZB01",
+        "version": "1.1.9",
+        "desc": "MicroPython TCTM KZB01",
+        "url": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/micropython_esp32_tctm_kzb01.zip"
+    }, {
+        "name": "Teaile AIBIT",
+        "version": "2.2.2",
+        "desc": "MicroPython Teaile AIBIT",
+        "url": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/micropython_k210_aibit.zip"
+    }, {
+        "name": "Nulllab LGT328P",
+        "version": "1.0.7",
+        "desc": "Nulllab LGT328P",
+        "url": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/arduino_nulllab_avr.zip",
+        "dependencies": [
+            "Arduino AVR"
+        ],
+        "package": {
+            "index": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/package_nulllab_mixly_index.json",
+            "version": "1.0.2",
+            "win32-x64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip",
+            "win32-ia32": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip",
+            "darwin-x64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip",
+            "darwin-arm64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip",
+            "linux-x64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip",
+            "linux-arm64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip"
+        }
+    }, {
+        "name": "Arduino STM32",
+        "version": "1.3.2",
+        "desc": "Arduino STM32",
+        "url": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_stm32/arduino_stm32.zip",
+        "dependencies": [
+            "Arduino AVR"
+        ],
+        "package": {
+            "index": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_stm32/package_STM32duino_index.json",
+            "version": "1.0.0",
+            "win32-x64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_stm32/stm32duino.zip",
+            "win32-ia32": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_stm32/stm32duino.zip",
+            "darwin-x64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_stm32/stm32duino.zip",
+            "darwin-arm64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_stm32/stm32duino.zip",
+            "linux-x64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_stm32/stm32duino.zip",
+            "linux-arm64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_stm32/stm32duino.zip"
+        }
+    }
+]
