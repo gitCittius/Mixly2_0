@@ -1,6 +1,6 @@
 [
     {
-        "name": "QDPK210 AIstart",
+        "name": "Placa Controladora V1",
         "version": "1.0.0",
         "desc": "MicroPython QDPK210 AIstart",
         "url": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/micropython_k210_aistart.zip"
