@@ -1,9 +1,9 @@
 [
     {
-        "name": "111111111111",
-        "version": "4.0.0",
-        "desc": " QDPK210 AIstart1",
-        "url": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/micropython_esp32_tctm_kzb01.zip" 
+        "name": "ttttt",
+        "version": "3.0.0",
+        "desc": "MicroPython QDPK210 AIstart",
+        "url": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/micropython_k210_aistart.zip" 
     }, {
         "name": "1234567890",
         "version": "1.1.9",
