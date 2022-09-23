@@ -1,21 +1,8 @@
 [
-{
-        "name": "Controladora v2",
-        "version": "1.0.4",
-        "desc": "Placa Controladora v2",
+    {
+        "name": "MixGo CE (CP)",
+        "version": "1.0.3",
+        "desc": "CircuitPython MixGo CE",
         "url": "https://github.com/gitCittius/Mixly2_0/blob/main/arduino_nulllab_avr.zip?raw=true",
-        "dependencies": [
-            "Arduino AVR"
-        ],
-        "package": {
-            "index": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/package_nulllab_mixly_index.json",
-            "version": "1.0.4",
-            "win32-x64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip",
-            "win32-ia32": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip",
-            "darwin-x64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip",
-            "darwin-arm64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip",
-            "linux-x64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip",
-            "linux-arm64": "http://114.132.216.192:8099/mixly2/cloud-libraries/raw/master/cloud-boards/arduino_nulllab_avr/nulllab.zip"
-        }
     }
 ]
