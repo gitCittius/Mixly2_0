@@ -1,7 +1,7 @@
 [
     {
         "name": "MixGo CE (CP)",
-        "version": "4.0.3",
+        "version": "5.0.3",
         "desc": "CircuitPython MixGo CE",
         "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius.zip"
     }
