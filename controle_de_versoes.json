@@ -18,7 +18,7 @@
         "name": "mODIFICADO",
         "version": "1.0.7",
         "desc": "Nulllab LGT328P",
-        "url": "https://drive.google.com/file/d/1f3Hl8E9cmJd3tmsxjHNLB316AT62VNNI/view?usp=sharing",
+        "url": "https://github.com/gitCittius/Mixly2_0/blob/main/arduino_nulllab_avr.zip",
         "dependencies": [
             "Arduino AVR"
         ],
