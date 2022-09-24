@@ -1,7 +1,7 @@
 [
     {
         "name": "Robotica",
-        "version": "6.0.0",
+        "version": "1.0.0",
         "desc": "CircuitPython MixGo CE",
         "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius.zip"
     }
