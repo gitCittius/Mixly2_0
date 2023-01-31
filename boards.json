@@ -1,13 +1,7 @@
 [
     {
         "name": "Kit De Robótica",
-        "version": "1.1.0",
-        "desc": "Kit de robótica Fund 1",
-        "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius.zip"
-    },
-    {
-        "name": "Kit De Robótica",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "desc": "Kit de robótica Fund 1",
         "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius.zip"
     }
