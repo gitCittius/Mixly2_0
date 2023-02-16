@@ -1,14 +1,8 @@
 [
     {
-        "name": "ED06",
-        "version": "1.1.5",
-        "desc": "Kit de robótica Fund 2",
-        "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius.zip"
-    },
-    {
-        "name": "ED06 2",
-        "version": "1.1.6",
-        "desc": "Kit de robótica Fund 2",
+        "name": "KIT DE ROBÓTICA ED06",
+        "version": "1.1.7",
+        "desc": "KIT DE ROB[OTICA ED06 - CAIXA AZUL CLARA",
         "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius.zip"
     }
 ]
