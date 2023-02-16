@@ -4,5 +4,10 @@
         "version": "1.1.8",
         "desc": "KIT DE ROB[OTICA ED06 - CAIXA AZUL CLARA",
         "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius.zip"
+    },    {
+        "name": "KIT DE ROBÓTICA ED06",
+        "version": "1.1.9",
+        "desc": "KIT DE ROB[OTICA ED06 - CAIXA AZUL CLARA",
+        "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius_1_1_9.zip"
     }
 ]
