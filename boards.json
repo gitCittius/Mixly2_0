@@ -1,10 +1,11 @@
 [
     {
         "name": "KIT DE ROBÓTICA",
-        "version": "1.2.8",
+        "version": "1.2.9",
         "desc": "KIT DE ROBÓTICA",
         "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius.zip"
-    },{
+    },
+    {
         "name": "Robótica Educação Infantil",
         "version": "1.0.3",
         "desc": "Robótica programado por cartões",
