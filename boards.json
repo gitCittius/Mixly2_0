@@ -10,5 +10,11 @@
         "version": "1.0.3",
         "desc": "Robótica programado por cartões",
         "url": "https://github.com/gitCittius/Mixly2_0/raw/main/Robotica_Educacao_Infantil.zip"
+    },
+    {
+        "name": "COLETOR DE DADOS",
+        "version": "1.0.0",
+        "desc": "Coletor de dados",
+        "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius_Coletora_de_Dados.zip"
     }
 ]
