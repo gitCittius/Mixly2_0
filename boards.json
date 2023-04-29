@@ -21,6 +21,6 @@
         "name": "ESP32-WROOM-DA",
         "version": "1.0.0",
         "desc": "C",
-        "url": "https://dl.espressif.com/dl/package_esp32_index.json"
+        "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_esp32.zip"
     }
 ]
