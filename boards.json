@@ -19,7 +19,7 @@
     },
     {
         "name": "ESP32-WROOM-DA",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "desc": "C",
         "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_esp32.zip"
     }
