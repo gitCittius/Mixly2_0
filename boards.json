@@ -13,9 +13,9 @@
     },
     {
         "name": "COLETORA DE DADOS",
-        "version": "6.0.1",
-        "desc": "Coletor de dados",
-        "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius_Coletora_de_Dados2.zip"
+        "version": "6.0.2",
+        "desc": "Coletor de dados 2",
+        "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius_Coletora_de_Dados.zip"
     },
     {
         "name": "ESP32-WROOM-DA",
