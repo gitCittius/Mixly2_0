@@ -22,5 +22,11 @@
         "version": "1.0.2",
         "desc": "C",
         "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_esp32.zip"
+    },
+    {
+        "name": "Arduino AVR",
+        "version": "1.0.0",
+        "desc": "C",
+        "url": "https://github.com/gitCittius/Mixly2_0/blob/main/arduino_avr.zip"
     }
 ]
