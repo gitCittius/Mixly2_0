@@ -31,8 +31,8 @@
     },
     {
         "name": "KIT de Robótica - SAPEZAL-MT",
-        "version": "1.0.0",
-        "desc": "C",
-        "url": "https://github.com/gitCittius/Mixly2_0/blob/main/arduino_Cittius_Fund1.zip"
+        "version": "1.7.9",
+        "desc": "KIT de Robótica - SAPEZAL-MT",
+        "url": "https://github.com/gitCittius/Mixly2_0/raw/main/arduino_Cittius_Fund1.zip"
     }
 ]
