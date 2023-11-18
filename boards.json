@@ -1,5 +1,11 @@
 [
     {
+        "name": "Python Blockly",
+        "version": "1.0.0",
+        "desc": "python",
+        "url": "https://github.com/gitCittius/Mixly2_0/raw/main/Python.zip"
+    },
+    {
         "name": "KIT de Robótica",
         "version": "1.8.3",
         "desc": "Robótica 4",
